@@ -1,0 +1,16 @@
+{
+  "name": "project1",
+  "version": "0.1.0",
+  "description": "Game",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "express": "^4.18.2",
+    "readline-sync": "^1.4.10"
+  }
+}
